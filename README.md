@@ -12,7 +12,7 @@ After implementing the base functionality from the tutorial, I made several impr
 ## 💡 What I Practiced
 - Implementing dynamic task handling using JavaScript DOM manipulation
 - Creating and managing form inputs, including date and time fields
-- Storing and retrieving data using localStorage for persistence
+- Storing and retrieving data using `localStorage` for persistence
 - Handling and formatting date/time
 - CSS styling, layout, and fonts
 
