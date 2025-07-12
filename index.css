@@ -1,0 +1,55 @@
+/* 
+  Created by Drishti Yadav (2025)
+  Based on a YouTube tutorial by Prashant Sir
+  Custom background, fonts, and layout styling added
+*/
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(images/bg.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+#main_heading {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+}
+
+.grid_container {
+  display: grid;
+  grid-template-columns: 200px 120px 150px 80px;
+  column-gap: 10px;
+  row-gap: 10px;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+#todo_input, #todo_date, #todo_time {
+  font-size: 15px;
+  padding: 10px 5px;
+}
+
+.btn_delete {
+  background-color: rgb(87, 4, 4);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 0px;
+  cursor: pointer;
+}
+
+.btn_todo {
+  background-color: rgb(5, 119, 19);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 0px;
+  cursor: pointer;
+}

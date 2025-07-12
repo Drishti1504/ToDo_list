@@ -1,0 +1,12 @@
+Copyright (c) 2025 Drishti Yadav
+
+This To-Do List web app project was created while learning from a YouTube tutorial by Prashant Sir.  
+I wrote the code based on the tutorial and added several enhancements, including:
+
+- Time input support
+- Background image and font styling
+- Date formatting in dd-mm-yyyy format
+- Persistent storage using localStorage
+
+This code is provided for personal learning and educational use only.  
+You may view and learn from it, but do not copy, redistribute, or claim this project as your own.
